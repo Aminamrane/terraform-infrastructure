@@ -101,3 +101,4 @@ Observability stack:
 - [Backend](https://github.com/Aminamrane/fastapi-backend) - FastAPI application
 - [Frontend](https://github.com/Aminamrane/react-frontend) - React application
 
+

@@ -163,3 +163,4 @@ resource "kubernetes_secret" "app_secrets" {
 #   tags         = local.common_tags
 # }
 
+

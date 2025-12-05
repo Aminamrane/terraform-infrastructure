@@ -30,3 +30,4 @@ first_superuser = "admin@dev.example.com"
 vpc_cidr = "10.0.0.0/16"
 domain   = "dev.example.com"
 
+

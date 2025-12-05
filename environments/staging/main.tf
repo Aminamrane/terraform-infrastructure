@@ -66,3 +66,4 @@ resource "kubernetes_secret" "db_credentials" {
   type = "Opaque"
 }
 
+
